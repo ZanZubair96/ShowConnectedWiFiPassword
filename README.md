@@ -9,6 +9,6 @@ Mini python project to show the password for the connected wifi devices for Wind
 *Note:* It might be blocked by the Windows Defender, please allow this file to run.
 
 
-*Code is also provided*
+*Code is also provided*  ---> refer "Net_traffic.py"
 
 
