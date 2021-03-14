@@ -15,3 +15,7 @@ Mini python project to show the password for the connected wifi devices for Wind
 >> refer "Net_traffic.py"
 
 
+# Note: 
+(**if you want to increase the timeout, please include that in the code)
+
+
